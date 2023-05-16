@@ -1,4 +1,4 @@
-I'm Max Kannen , an IT student at RWTH University.
+I'm Max Kannen , Futurist and IT student at RWTH University.
 
 ## About Me
 
@@ -22,14 +22,11 @@ I regularly write about AI on my blog. Some of my recent blog posts include:
 - Python
 - C#
 - Git
-- Docker
 - Java
 - autmomated UI tests
 - latex
-
-## Contact Me
-
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/mkannen/).
+- tensorflow
+- machine learning 
 
 ## Connect with Me
 
