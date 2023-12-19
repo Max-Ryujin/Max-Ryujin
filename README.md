@@ -1,4 +1,4 @@
-I'm Max Kannen, a research assistant and CS student at RWTH University.
+I'm Max Kannen, a CS student at RWTH University.
 
 ## About Me
 
