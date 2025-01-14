@@ -7,7 +7,8 @@ I am Max Kannen, a Computer Science student at RWTH University with a keen inter
 ## Education
 
 - Abitur with two awards for extraordinary achievements in math and physics
-- Bachelor's degree in Computer Science from RWTH University with a focus on math and machine learning (Expected graduation: 2024)
+- Bachelor's degree in Computer Science from RWTH University with a focus on math and machine learning
+- Currently doing my master's degree in Computer science
 
 ## Skills
 
@@ -16,6 +17,7 @@ I am Max Kannen, a Computer Science student at RWTH University with a keen inter
 - C#
 - Java
 - C++
+- C
 
 ### Tools & Frameworks
 - Git
@@ -24,9 +26,9 @@ I am Max Kannen, a Computer Science student at RWTH University with a keen inter
 - RETURNN
 
 ### Other Skills
+- CLI proficiency on Linux and Windows
 - Automated UI tests
 - LaTeX
-- Markdown
 - Language model integration
 - Machine learning
 - Some experience in cybersecurity, specifically in penetration testing, as a personal hobby and interest
