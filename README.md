@@ -24,6 +24,10 @@ I am Max Kannen, a Computer Science student at RWTH University with a keen inter
 ### Tools & Frameworks
 - Git
 - TensorFlow
+- Slurm
+- Tinygrad
+- MCP
+- LLMs
 - Torch
 - RETURNN
 
@@ -41,6 +45,7 @@ I am Max Kannen, a Computer Science student at RWTH University with a keen inter
 - [LinkedIn](https://www.linkedin.com/in/mkannen/)
 - [Blog](https://mkannen.tech/)
 - [GitHub](https://github.com/Max-Ryujin)
+- [Bluesky](https://bsky.app/profile/maxkannen.bsky.social)
 - [Twitter](https://twitter.com/MaxKannen)
 
 ## My GitHub Stats
@@ -49,4 +54,4 @@ I am Max Kannen, a Computer Science student at RWTH University with a keen inter
 
 ## Thank You for Visiting!
 
-Thank you for taking the time to visit my GitHub profile! I am always open to collaborations and opportunities to learn from others. I do not have many active projects on here, but I want to change that.
+Thank you for taking the time to visit my GitHub profile! I am currently looking for a new research position. I do not have many public projects on here, but I want to change that.
