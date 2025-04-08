@@ -6,9 +6,11 @@ I am Max Kannen, a Computer Science student at RWTH University with a keen inter
 
 ## Education
 
-- Abitur with two awards for extraordinary achievements in math and physics
-- Bachelor's degree in Computer Science from RWTH University with a focus on math and machine learning
 - Currently doing my master's degree in Computer science
+- - Bachelor's degree in Computer Science from RWTH University with a focus on math and machine learning
+- Abitur with two awards for extraordinary achievements in math and physics
+
+
 
 ## Skills
 
