@@ -1,16 +1,14 @@
-I'm Max Kannen, a CS student at RWTH University.
+I'm Max Kannen, a CS Master's student at RWTH University.
 
 ## About Me
 
-I am Max Kannen, a Computer Science student at RWTH University with a keen interest in Artificial Intelligence (AI). My passion lies in exploring cutting-edge technologies and understanding their societal impact. My main programming skills are in Python and C#. I worked as a software developer before and have some experience working in larger teams on big projects.
+I am Max Kannen, a Computer Science student at RWTH University with a keen interest in Artificial Intelligence (AI). My passion lies in exploring cutting-edge technologies and understanding their societal impact. My main programming skills are in Python and C#. I worked as a software developer before and have some experience working in larger teams on big projects and research.
 
 ## Education
 
 - Currently doing my master's degree in Computer science
 - - Bachelor's degree in Computer Science from RWTH University with a focus on math and machine learning
 - Abitur with two awards for extraordinary achievements in math and physics
-
-
 
 ## Skills
 
@@ -54,4 +52,4 @@ I am Max Kannen, a Computer Science student at RWTH University with a keen inter
 
 ## Thank You for Visiting!
 
-Thank you for taking the time to visit my GitHub profile! I am currently looking for a new research position. I do not have many public projects on here, but I want to change that.
+Thank you for taking the time to visit my GitHub profile! I do not have many public projects on here, but I want to change that.
